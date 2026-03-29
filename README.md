@@ -49,7 +49,7 @@ El **YL-69** es un sensor resistivo de humedad del suelo compuesto por dos parte
 
 ## Diagrama de conexión
 
-![Diagrama de conexión YL-69](https://hk.botsheet.com/wp-content/uploads/2021/04/soil-moisture-sensor-yl-69-wiring-1.jpeg?v=1657914282)
+![Diagrama de conexión YL-69](https://imgur.com/OJSf0wz.png)
 
 > La imagen muestra la conexión general del módulo YL-69. Para este proyecto los pines de datos van a los **GPIO 34 (analógico) y GPIO 23 (digital)** del ESP32.
 
